@@ -1,5 +1,5 @@
 === WP Post Background ===
-Contributors: [José Carlos Chávez](https://github.com/jcchavezs)
+Contributors: jcchavezs
 Tags: plugin, post, background, attachment
 Requires at least: 3.0
 Tested up to: 4.2.2
